@@ -10,3 +10,5 @@ To understand the factors that lead a person to look for a job change, the agenc
 
 # Result
 Got 0.6879 AUC-ROC score on private leaderboard and secured 20th position amongst 173 participants.
+
+[Link](https://datahack.analyticsvidhya.com/contest/the-data-supremacy/pvt_lb)
